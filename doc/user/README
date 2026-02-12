@@ -3,7 +3,52 @@ README (english)
 User guide
 --------------------------------
 
-* All Dolibarr guides are available, online, on the Dolibarr Websites:
 
-https://www.dolibarr.org
-https://wiki.dolibarr.org
+--------------------------------
+Getting Started
+--------------------------------
+
+* Try the online demo:
+    https://demo.dolibarr.org
+
+* First setup after installation:
+    https://wiki.dolibarr.org/index.php/First_setup
+
+
+--------------------------------
+Key Topics
+--------------------------------
+
+* Third parties (customers, suppliers, prospects):
+    https://wiki.dolibarr.org/index.php/Module_Third_Parties
+
+* Invoices and payments:
+    https://wiki.dolibarr.org/index.php/Module_Invoice
+
+* Products and services:
+    https://wiki.dolibarr.org/index.php/Module_Products
+
+* Sales orders:
+    https://wiki.dolibarr.org/index.php/Module_Sales_Orders
+
+
+--------------------------------
+Complete Documentation
+--------------------------------
+
+* Full user documentation:
+    https://wiki.dolibarr.org/index.php/User_documentation
+
+* Official website:
+    https://www.dolibarr.org
+
+
+--------------------------------
+Community Support
+--------------------------------
+
+* Forums:
+    https://www.dolibarr.org/forum
+
+* Preferred partners (commercial support):
+    https://partners.dolibarr.org

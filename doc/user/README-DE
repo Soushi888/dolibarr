@@ -5,9 +5,55 @@ LiesMich (deutsch)
 Benutzeranleitung
 --------------------------------
 
-Alle Dolibarr-Informationen sind online verfuegbar ueber die Webseiten:
 
-https://www.dolibarr.de (de)   oder   https://www.dolibarr.org   (intl)
+--------------------------------
+Erste Schritte
+--------------------------------
+
+* Online-Demo ausprobieren:
+    https://demo.dolibarr.org
+
+* Ersteinrichtung nach der Installation:
+    https://wiki.dolibarr.org/index.php/First_setup
 
 
-https://wiki.dolibarr.org/index.php/Hauptseite (de)
+--------------------------------
+Wichtige Themen
+--------------------------------
+
+* Geschaeftspartner (Kunden, Lieferanten, Interessenten):
+    https://wiki.dolibarr.org/index.php/Module_Third_Parties
+
+* Rechnungen und Zahlungen:
+    https://wiki.dolibarr.org/index.php/Module_Invoice
+
+* Produkte und Dienstleistungen:
+    https://wiki.dolibarr.org/index.php/Module_Products
+
+* Kundenauftraege:
+    https://wiki.dolibarr.org/index.php/Module_Sales_Orders
+
+
+--------------------------------
+Vollstaendige Dokumentation
+--------------------------------
+
+* Vollstaendige Benutzerdokumentation:
+    https://wiki.dolibarr.org/index.php/User_documentation
+
+* Deutsche Dolibarr Community:
+    https://www.dolibarr.de
+
+* Deutsche Wiki-Hauptseite:
+    https://wiki.dolibarr.org/index.php/Hauptseite
+
+
+--------------------------------
+Community-Support
+--------------------------------
+
+* Foren:
+    https://www.dolibarr.org/forum
+
+* Bevorzugte Partner (kommerzieller Support):
+    https://partners.dolibarr.org

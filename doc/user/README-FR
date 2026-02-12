@@ -3,6 +3,52 @@ README (french)
 Documentation utilisateur
 --------------------------------
 
-La documentation utilisateur francophone est disponible en ligne sur le site Web de Dolibarr à l'adresse:
 
-https://www.dolibarr.fr
+--------------------------------
+Pour commencer
+--------------------------------
+
+* Essayez la demo en ligne :
+    https://demo.dolibarr.org
+
+* Premiere configuration apres l'installation :
+    https://wiki.dolibarr.org/index.php/First_setup
+
+
+--------------------------------
+Sujets principaux
+--------------------------------
+
+* Tiers (clients, fournisseurs, prospects) :
+    https://wiki.dolibarr.org/index.php/Module_Third_Parties
+
+* Factures et paiements :
+    https://wiki.dolibarr.org/index.php/Module_Invoice
+
+* Produits et services :
+    https://wiki.dolibarr.org/index.php/Module_Products
+
+* Commandes clients :
+    https://wiki.dolibarr.org/index.php/Module_Sales_Orders
+
+
+--------------------------------
+Documentation complete
+--------------------------------
+
+* Documentation utilisateur complete :
+    https://wiki.dolibarr.org/index.php/User_documentation
+
+* Communaute francophone :
+    https://www.dolibarr.fr
+
+
+--------------------------------
+Support communautaire
+--------------------------------
+
+* Forums :
+    https://www.dolibarr.org/forum
+
+* Partenaires preferes (support commercial) :
+    https://partners.dolibarr.org

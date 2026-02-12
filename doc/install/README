@@ -3,23 +3,53 @@ README (english)
 
 
 --------------------------------
+Quick Start
+--------------------------------
+
+1. Verify that your PHP version is supported (7.2+).
+   See https://wiki.dolibarr.org/index.php/Releases
+
+2. Copy the "htdocs" directory into your web server root,
+   or clone from GitHub:
+   git clone https://github.com/Dolibarr/dolibarr -b x.y
+   (where x.y is the version, e.g. 19.0, 20.0)
+
+3. Set up your web server to point to dolibarr/htdocs.
+
+4. Create an empty file htdocs/conf/conf.php and grant
+   write permissions to the web server user.
+
+5. Open the install URL in your browser, for example:
+   http://localhost/dolibarr/htdocs/install/
+   and follow the installer instructions.
+
+
+--------------------------------
 Download
 --------------------------------
 
-* Dolibarr ERP/CRM can be downloaded at sourceforge:
-    https://sourceforge.net/projects/dolibarr/files
-  or from Dolibarr official web site:
+* Official website and releases:
     https://www.dolibarr.org
 
-* Most external modules are only available on DoliStore:
+* GitHub releases:
+    https://github.com/Dolibarr/dolibarr/releases
+
+* Docker image:
+    https://hub.docker.com/r/dolibarr/dolibarr
+
+* External addons and plugins:
     https://www.dolistore.com
 
 
 --------------------------------
-Install
+Complete Documentation
 --------------------------------
 
-* For a Quick guide, take a look at README.md file into root directory.
+* Installation and upgrade guide:
+    https://wiki.dolibarr.org/index.php/Installation_-_Upgrade
 
-* More complete documentation is also available on line on the Dolibarr Wiki:
+* Prerequisites:
+    https://wiki.dolibarr.org/index.php/Prerequisite
+
+* Full documentation wiki:
     https://wiki.dolibarr.org

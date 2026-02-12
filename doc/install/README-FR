@@ -3,24 +3,56 @@ README (french)
 
 
 --------------------------------
-Téléchargement
+Demarrage rapide
 --------------------------------
 
-* Dolibarr ERP/CRM peut être téléchargé sur sourceforge:
-https://sourceforge.net/projects/dolibarr/files
+1. Verifiez que votre version de PHP est compatible (7.2+).
+   Voir https://wiki.dolibarr.org/index.php/Releases
 
-ou sur le site officiel de Dolibarr:
-https://www.dolibarr.org
+2. Copiez le repertoire "htdocs" dans la racine de votre
+   serveur web, ou clonez depuis GitHub :
+   git clone https://github.com/Dolibarr/dolibarr -b x.y
+   (ou x.y est la version, par ex. 19.0, 20.0)
 
-* La plupart des modules externes ne sont disponibles que sur le DoliStore officiel:
-https://www.dolistore.com
+3. Configurez votre serveur web pour pointer vers dolibarr/htdocs.
+
+4. Creez un fichier vide htdocs/conf/conf.php et accordez
+   les droits en ecriture a l'utilisateur du serveur web.
+
+5. Ouvrez l'URL d'installation dans votre navigateur, par exemple :
+   http://localhost/dolibarr/htdocs/install/
+   puis suivez les instructions de l'installeur.
 
 
 --------------------------------
-Documentation utilisateur
+Telechargement
 --------------------------------
 
-* Pour une prise en main et installation rapide, consultez le fichier README-FR.md à la racine.
+* Site officiel et versions :
+    https://www.dolibarr.org
 
-* Une documentation utilisateur francophone plus consistante est disponible en ligne sur le wiki de Dolibarr à l'adresse:
+* Versions GitHub :
+    https://github.com/Dolibarr/dolibarr/releases
+
+* Image Docker :
+    https://hub.docker.com/r/dolibarr/dolibarr
+
+* Modules et plugins externes :
+    https://www.dolistore.com
+
+
+--------------------------------
+Documentation complete
+--------------------------------
+
+* Guide d'installation et de mise a jour :
+    https://wiki.dolibarr.org/index.php/Installation_-_Upgrade
+
+* Prerequis :
+    https://wiki.dolibarr.org/index.php/Prerequisite
+
+* Wiki de documentation complet :
     https://wiki.dolibarr.org
+
+* Communaute francophone :
+    https://www.dolibarr.fr
